@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Viahr Blog",
+  title: "Vihar Blog",
   description: "Vihar Gandhi blogs",
 };
 
